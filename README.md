@@ -52,7 +52,7 @@ AI-assisted sci-fi anime project set in 2187.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=HarshitRaj31&show_icons=true&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -62,7 +62,7 @@ AI-assisted sci-fi anime project set in 2187.
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github-readme-stats.vercel.app/api?username=HarshitRaj31&show_icons=true&theme=tokyonight&hide_border=true">
 GitHub
 </a>
 
