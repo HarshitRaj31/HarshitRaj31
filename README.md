@@ -37,9 +37,6 @@ Building things that work. Learning what’s next. 🚀
 ### 🎬 Cinebox
 Movie Ticket Booking System built with React.
 
-### 🚌 CityLink
-Bus Reservation System with user and admin functionality.
-
 ### 💰 Expense Tracker
 Income and expense management dashboard with charts.
 
