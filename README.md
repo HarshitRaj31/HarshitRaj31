@@ -1,190 +1,95 @@
-<!--
-  HARSHIT.EXE — GITHUB PROFILE
-  Art direction: Obsidian / Acid Lime / Digital Brutalism
---><div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:080B09,50:101B13,100:192D1E&text=HARSHIT.EXE&fontColor=D6FF6B&fontSize=64&fontAlignY=43&desc=SOFTWARE%20%2F%20SYSTEMS%20%2F%20IDEAS&descSize=13&descColor=B4C7A3&descAlignY=68" alt="HARSHIT.EXE — Software, systems, ideas"/><br/><code>ENGINEERING THE THINGS I WISH EXISTED.</code>
+<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:030605,50:102016,100:050706&text=HARSHIT%20RAJ&fontColor=D6FF6B&fontSize=64&fontAlignY=42&desc=FULL%20STACK%20%E2%80%A2%20SYSTEMS%20%E2%80%A2%20OPEN%20SOURCE&descColor=B8C9B5&descSize=13&descAlignY=62" alt="Harshit Raj — Neon Architect"/>"harshit@github:~$ whoami"
 
-<br/><br/>
+Building beyond the browser.
 
-""GitHub" (https://img.shields.io/badge/01_GITHUB-101510?style=flat-square&logo=github&logoColor=D6FF6B)" (https://github.com/HarshitRaj31)
-""LinkedIn" (https://img.shields.io/badge/02_LINKEDIN-101510?style=flat-square&logo=linkedin&logoColor=D6FF6B)" (https://www.linkedin.com/in/harshit-raj-a76b93329/)
-"Status" (https://img.shields.io/badge/03_STATUS-IN_THE_MAKING-D6FF6B?style=flat-square&labelColor=101510)
+I turn curiosity into code, ideas into systems, and experiments into real projects.
 
-</div><br/><table>
-<tr>
-<td width="60%" valign="top">00 / WHO AM I?
-
-I'm Harshit — a Computer Science Engineering student exploring the intersection of software, systems, and creativity.
-
-I build interfaces, connect systems, experiment with backend engineering, and learn by making things that actually work.
-
-My curiosity doesn't stop at the browser. I'm interested in what happens underneath it, too.
-
-</td>
-<td width="40%" valign="top">CURRENT MODE
-
-[ identity ]
-developer.exe
-
-[ focus ]
-Full Stack
-Backend Systems
-Cloud Infrastructure
-
-[ learning ]
-Go / Docker
-System Design
-
-[ mindset ]
-Build > Observe > Improve
-
-</td>
-</tr>
-</table>---
-
-<div align="center"><sub>01 — SELECTED EXPERIMENTS</sub>
-
-Things in the Workshop.
-
-Not just repositories. Small steps toward bigger engineering ideas.
-
-</div><table>
-<tr>
-<td width="50%" valign="top"><img src="https://img.shields.io/badge/01-101510?style=flat-square&labelColor=D6FF6B&color=101510"/>"kamui.cloud"
-
-A CLOUD OF YOUR OWN.
-
-An open-source private cloud project exploring how everyday laptops can become part of a cloud environment.
-
-"GO" · "DOCKER" · "INFRASTRUCTURE"
-
-"↗ View repositories" (https://github.com/HarshitRaj31)
-
-</td>
-<td width="50%" valign="top"><img src="https://img.shields.io/badge/02-101510?style=flat-square&labelColor=D6FF6B&color=101510"/>"toxic.guard"
-
-A SAFER DIGITAL SPACE.
-
-A web application focused on detecting toxic speech and identifying potentially harmful text.
-
-"REACT" · "API" · "AI/ML"
-
-"↗ View repositories" (https://github.com/HarshitRaj31)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top"><img src="https://img.shields.io/badge/03-101510?style=flat-square&labelColor=D6FF6B&color=101510"/>"cinebox.ui"
-
-CINEMA, REIMAGINED.
-
-A movie ticket booking interface focused on discovery, navigation, and a polished user experience.
-
-"REACT" · "VITE" · "CSS"
-
-"↗ View repositories" (https://github.com/HarshitRaj31)
-
-</td>
-<td width="50%" valign="top"><img src="https://img.shields.io/badge/04-101510?style=flat-square&labelColor=D6FF6B&color=101510"/>"citylink.app"
-
-MOVING PEOPLE, DIGITALLY.
-
-A bus reservation project exploring booking workflows and administrative management.
-
-"REACT" · "NODE.JS" · "MONGODB"
-
-"↗ View repositories" (https://github.com/HarshitRaj31)
-
-</td>
-</tr>
-</table><sub>↳ Project links currently lead to my profile. Replace them with the individual public repositories.</sub>
-
----
-
-<div align="center"><sub>02 — THE TOOLBOX</sub>
-
-My stack, in progress.
-
-Tools are the medium. Problem-solving is the skill.
-
-<br/>LANGUAGES
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,go&theme=dark" alt="Programming languages"/><br/><br/>
-
-BUILDING THE WEB
-
-<img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind,nodejs,express&theme=dark" alt="Web development technologies"/><br/><br/>
-
-DATA, INFRASTRUCTURE & TOOLS
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,docker,linux,git,github,vscode&theme=dark" alt="Databases, infrastructure and developer tools"/></div>---
-
-<table>
-<tr>
-<td width="50%" valign="top"><sub>03 — ACTIVE QUESTS</sub>
-
-Currently exploring
-
-- "01" Go and backend engineering
-- "02" Docker and container execution
-- "03" Linux and operating systems
-- "04" DSA and problem-solving
-- "05" System design and architecture
-- "06" Open-source collaboration
-
-</td>
-<td width="50%" valign="top"><sub>04 — DESIGN PHILOSOPHY</sub>
-
-How I build
-
-01 / Understand
-
-Find the real problem.
-
-02 / Prototype
-
-Make the smallest working version.
-
-03 / Stress-test
-
-Discover what breaks.
-
-04 / Refine
-
-Improve the design and implementation.
-
-05 / Ship
-
-Turn progress into something real.
-
-</td>
-</tr>
-</table>---
-
-<div align="center"><sub>05 — THE ACTIVITY FEED</sub>
-
-Proof of work.
-
-<img src="https://github-readme-stats.vercel.app/api?username=HarshitRaj31&show_icons=true&hide_border=true&bg_color=080B09&title_color=D6FF6B&icon_color=D6FF6B&text_color=C4D0C1&rank_icon=github" width="49%" alt="GitHub statistics"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitRaj31&layout=compact&hide_border=true&bg_color=080B09&title_color=D6FF6B&text_color=C4D0C1" width="49%" alt="Top programming languages"/>
-
-<br/><img src="https://streak-stats.demolab.com?user=HarshitRaj31&hide_border=true&background=080B09&ring=D6FF6B&fire=D6FF6B&currStreakLabel=D6FF6B&sideLabels=C4D0C1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=7D8B7C" width="75%" alt="GitHub contribution streak"/><sub>Stats are generated from GitHub activity and may depend on third-party services.</sub>
+"GitHub" (https://github.com/HarshitRaj31) · "LinkedIn" (https://www.linkedin.com/in/harshit-raj-a76b93329/)
 
 </div>---
 
-<div align="center"><sub>06 — CONNECTION ESTABLISHED</sub>
+╭──────────────────────────────────────────────╮
+│  SYSTEM PROFILE                              │
+├──────────────────────────────────────────────┤
+│  ID       : Harshit Raj                      │
+│  ROLE     : CSE Student / Developer          │
+│  FOCUS    : Web + Backend + Cloud            │
+│  LEARNING : Go / Docker / System Design      │
+│  MODE     : Always Building                  │
+╰──────────────────────────────────────────────╯
 
-Have something worth building?
+"// 01" — Featured projects
 
-I'm interested in good engineering, ambitious ideas, and people who enjoy figuring things out.
+<table>
+<tr>
+<td width="50%" valign="top">☁️ Kamui Cloud
 
-<a href="https://github.com/HarshitRaj31"><img src="https://img.shields.io/badge/EXPLORE_MY_CODE-D6FF6B?style=for-the-badge&logo=github&logoColor=101510" alt="Explore my code"/></a>
-<a href="https://www.linkedin.com/in/harshit-raj-a76b93329/"><img src="https://img.shields.io/badge/CONNECT-101510?style=for-the-badge&logo=linkedin&logoColor=D6FF6B" alt="Connect on LinkedIn"/></a>
+An open-source private cloud built around the idea of turning everyday laptops into cloud infrastructure.
 
-<br/><br/>
+"GO" "DOCKER" "SYSTEMS"
 
-<code>while (curious) { build(); learn(); repeat(); }</code>
+"Explore my GitHub →" (https://github.com/HarshitRaj31)
 
-<br/><br/>
+</td>
+<td width="50%" valign="top">🛡️ ToxicGuard
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=75&color=0:192D1E,100:080B09&section=footer" alt="Obsidian and lime footer"/><sub>HARSHIT RAJ © 2026 · MADE OF CURIOSITY & CODE</sub>
+A toxic speech detection application focused on identifying potentially harmful online text.
+
+"REACT" "NODE.JS" "AI/ML"
+
+"Explore my GitHub →" (https://github.com/HarshitRaj31)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">🎬 Cinebox
+
+A movie ticket booking experience with movie discovery and an interactive interface.
+
+"REACT" "VITE" "CSS"
+
+"Explore my GitHub →" (https://github.com/HarshitRaj31)
+
+</td>
+<td width="50%" valign="top">🚌 CityLink
+
+A bus reservation system exploring booking workflows and administrative management.
+
+"REACT" "EXPRESS" "MONGODB"
+
+"Explore my GitHub →" (https://github.com/HarshitRaj31)
+
+</td>
+</tr>
+</table>"// 02" — The arsenal
+
+<div align="center"><img src="https://skillicons.dev/icons?i=c,cpp,python,js,go,react,vite,tailwind,nodejs,express,mongodb,mysql,docker,linux,git,github&theme=dark&perline=8" alt="Developer technology stack"/></div>"// 03" — Current missions
+
+- [x] Build interactive web applications.
+- [x] Explore frontend and backend development.
+- [ ] Deepen Go and systems programming skills.
+- [ ] Build stronger container and cloud infrastructure skills.
+- [ ] Contribute consistently to open source.
+- [ ] Master system design and engineering fundamentals.
+
+"// 04" — GitHub telemetry
+
+<div align="center"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=HarshitRaj31&show_icons=true&hide_border=true&bg_color=080B09&title_color=D6FF6B&icon_color=D6FF6B&text_color=E0E7DD" alt="GitHub statistics"/><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitRaj31&layout=compact&hide_border=true&bg_color=080B09&title_color=D6FF6B&text_color=E0E7DD" alt="Most-used languages"/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=HarshitRaj31&hide_border=true&background=080B09&ring=D6FF6B&fire=D6FF6B&currStreakLabel=D6FF6B&sideLabels=E0E7DD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=849184" alt="GitHub contribution streak"/></div>"// 05" — The philosophy
+
+<div align="center">«Build things that solve problems.
+
+Keep learning.
+
+Keep shipping.»
+
+"BUILD()" → "LEARN()" → "REPEAT()"
+
+</div>---
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:192D1E,100:030605&height=100&section=footer" width="100%" alt="Neon green footer"/>"harshit@github:~$ echo "Thanks for visiting.""
+
+<sub>HARSHIT RAJ · ENGINEERING IN PROGRESS · 2026</sub>
 
 </div>
