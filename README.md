@@ -1,8 +1,5 @@
 
-More unique and very asthetic
-Let's take it a level further: less traditional GitHub README, more futuristic developer portfolio. Think midnight-black canvas, acid-lime accents, terminal-inspired identity, oversized editorial typography, minimal project cards, and a subtle cyberpunk aesthetic — without making it look cluttered.
 
-The concept: HARSHIT.EXE — HUMAN CURIOSITY, ENGINEERED INTO SOFTWARE.
 
 <!--
   HARSHIT.EXE — GITHUB PROFILE
