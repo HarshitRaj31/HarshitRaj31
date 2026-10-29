@@ -114,7 +114,6 @@ REACT NODE.JS CASHFREE
 </table>
 
 
-<sub>Replace the project links above with each project's actual public repository URL.</sub>
 03 / THE TOOLKIT
 <div align="center">
 
